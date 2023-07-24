@@ -1,0 +1,9 @@
+
+{
+    "name": "Using fixtures to represent data",
+    "gender" : "male",
+    "email": "hello1235449@cypress.io",
+    "status": "active"
+}
+  
+  
